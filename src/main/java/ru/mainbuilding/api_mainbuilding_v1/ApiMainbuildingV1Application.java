@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ApiMainbuildingV1Application {
 
 	public static void main(String[] args) {
+		String str = "test in";
 		SpringApplication.run(ApiMainbuildingV1Application.class, args);
 	}
 }
